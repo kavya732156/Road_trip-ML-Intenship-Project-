@@ -25,8 +25,14 @@ OPTIMIZATION  : For any given set of locations, these location are fed to the ma
 
 CONCLUSION : The XGBoost model had an error of 4.8 minutes in estimating a single trip's duration for a motor vehicle. While this may seem acceptable for one trip, the error may              get bigger the more locations are visited. The genetic algorithm itself is fairly straightforward, but it must be noted that every genetic algorithm gives an                    optimal approximation, but not the single best solution there is.
 
-OUTPUT SCREENSHOTS : We had taken 11 waypoints on the map. We would like  to visit all these locations on the same day, and we want to know the best route.
-            
+OUTPUT SCREENSHOTS : 
+
+output1: Base map using folium 
+
+output2 We had taken 11 waypoints on the map. We would like  to visit all these locations on the same day, and we want to know the best route.
+            ![trip  output](https://user-images.githubusercontent.com/89789110/138130924-b75f521d-0e2e-48b2-822a-5879b20411e2.png)
+
+
                        
 
 
