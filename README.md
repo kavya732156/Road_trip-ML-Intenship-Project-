@@ -28,9 +28,14 @@ CONCLUSION : The XGBoost model had an error of 4.8 minutes in estimating a singl
 OUTPUT SCREENSHOTS : 
 
 output1: Base map using folium 
+        
+        
+        ![base map](https://user-images.githubusercontent.com/89789110/138131261-74730b56-e450-4b5c-895e-b187efb4522c.png)
+
 
 output2 We had taken 11 waypoints on the map. We would like  to visit all these locations on the same day, and we want to know the best route.
-            ![trip  output](https://user-images.githubusercontent.com/89789110/138130924-b75f521d-0e2e-48b2-822a-5879b20411e2.png)
+           
+           ![trip  output](https://user-images.githubusercontent.com/89789110/138130924-b75f521d-0e2e-48b2-822a-5879b20411e2.png)
 
 
                        
